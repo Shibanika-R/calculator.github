@@ -44,4 +44,5 @@ body{
 	color: black;
 	transition: all 1s;
 	font-size: 150%;
+	cursor:pointer;
 }
